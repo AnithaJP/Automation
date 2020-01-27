@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	 WebElement user = driver.findElement(By.id("username"));
 	 user.sendKeys("Anithaajp");
 	 WebElement  password = driver.findElement(By.id("password"));
-	 password.sendKeys("anitha536");
+	 password.sendKeys("anitha53678");
 	 WebElement btn  = driver.findElement(By.id("login"));
 	 btn.click();
      WebElement val  = driver.findElement(By.id("username_show"));
